@@ -1,0 +1,5 @@
+Datacenter is a physical facility which contans storage resource, netwrk resources, Compute resources and al teh physical requiremnt to host lal teh physical requiremnt to host l
+
+
+CDNS= Compute,Database,Network,Storage.
+
