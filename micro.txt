@@ -1,0 +1,6 @@
+Virtual machines are hardware level virtualization.
+Containers are os level virtualization.
+Virtula machines are OS level isolation.
+Containes are processor application level isolation.
+
+ 
